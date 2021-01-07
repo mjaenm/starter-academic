@@ -72,7 +72,7 @@ highlight_name: false
 
 I am a computer scientist who is passionate about the interplay between mathematical theory of intelligent systems, computational algorithms and their applications to real world problems.
 
-I have research experience in probabilistic modeling for stochastic optimization working with [Prof. Arturo Hernandez](https://www.cimat.mx/~artha/) at [CIMAT, Mexico](http://pcc.cimat.mx/) and with [Prof. John McCall](https://www3.rgu.ac.uk/dmstaff/mccall-john) at [RGU, UK](http://www.comp.rgu.ac.uk/computational-intelligence-research-group/). Amazed to see how basic research becomes technology I started my professional career working in the financial industry as a Quant developer at BBVA Global Markets division . Currently I work as a Software Engineer at Microsoft Azure division. 
+I have research experience in probabilistic modeling for stochastic optimization working with [Dr. Arturo Hernandez](https://www.cimat.mx/~artha/) at [CIMAT, Mexico](http://pcc.cimat.mx/) and with [Dr. John McCall](https://www3.rgu.ac.uk/dmstaff/mccall-john) at [RGU, UK](http://www.comp.rgu.ac.uk/computational-intelligence-research-group/). Amazed to see how basic research becomes technology I started my professional career working in the financial industry as a Quant developer at BBVA Global Markets division. Currently I work as a Software Engineer at Microsoft Azure division. 
 
 I am skilled in C++, C#, Python and modern software engineering best practices.
 
