@@ -30,7 +30,7 @@ url_video: "https://youtu.be/vh-52Q7FtCA"
 slides: ""
 ---
 ## Summary: 
-In my honors thesis I studied the main principles behind evolutionary algorithms and in particular, metaheuristics such as Particle Swarm Optimization. The purpose of this research was to develop hybrid approaches together with the particle filter method (PF) applied to the video object tracking problem.
+In my BS thesis I studied the main principles behind evolutionary algorithms and in particular, metaheuristics such as Particle Swarm Optimization. The purpose of this research was to develop hybrid approaches together with the particle filter method (PF) applied to the video object tracking problem.
 
 We developed a color-based observation model and a linear transition model to use it in the canonical PF. Then a dynamic optimization step was combined with the PF to enhance the state estimation over time. Our appoach showed competitive performance w.r.t particle filters on complex benchmarks used in literature.
 

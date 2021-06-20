@@ -30,8 +30,7 @@ url_video: ""
 slides: ""
 ---
 ## Summary:
-Working with ​Prof. Arturo Hernandez and Prof. John McCall in black-box optimization methods. I analyzed population based algorithms that employ probabilistic models to guide the search process and that are built upon the Information
-Geometry (IG) framework. Our goal was to introduce a novel global optimization algorithm.
+Working with Dr. Arturo Hernandez and Dr. John McCall in black-box optimization methods. I analyzed population based algorithms that employ probabilistic models to guide the search process and that are built upon the Information Geometry (IG) framework. Our goal was to introduce a novel global optimization algorithm.
 
 ## Research output:
 - Research stay in the Computational Intelligence Group at Robert Gordon University, UK.

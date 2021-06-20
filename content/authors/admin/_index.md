@@ -70,10 +70,10 @@ email: ""
 highlight_name: false
 ---
 
-I am a computer scientist who is passionate about the interplay between mathematical theory of intelligent systems, computational algorithms and their applications to real world problems.
+I am a computer scientist who is passionate about the interplay between mathematical theory of intelligent systems, computational algorithms and their applications to solve real world problems.
 
-I have research experience in probabilistic modeling for stochastic optimization working with [Dr. Arturo Hernandez](https://www.cimat.mx/~artha/) at [CIMAT, Mexico](http://pcc.cimat.mx/) and with [Dr. John McCall](https://www3.rgu.ac.uk/dmstaff/mccall-john) at [RGU, UK](http://www.comp.rgu.ac.uk/computational-intelligence-research-group/). Amazed to see how basic research becomes technology I started my professional career working in the financial industry as a Quant developer at BBVA Global Markets division. Currently I work as a Software Engineer at Microsoft Azure division. 
+I have research experience in combinatorial optimization working with [Dr. Rafael Rivera](https://scholar.google.com.mx/citations?hl=en&user=UoFV9LAAAAAJ) at TecNM - Veracruz, probabilistic modeling and evolutionary computation with [Dr. Arturo Hernandez](https://www.cimat.mx/~artha/) at [CIMAT, Mexico](http://pcc.cimat.mx/) and computational intelligence and machine learning with [Dr. John McCall](https://www3.rgu.ac.uk/dmstaff/mccall-john) at [RGU, UK](http://www.comp.rgu.ac.uk/computational-intelligence-research-group/). 
 
-I am skilled in C++, C#, Python and modern software engineering best practices.
+Amazed to see how basic research is transformed into technology I started my professional career in the financial industry as a Quant developer and now as a Software Engineer in the tech sector. I am skilled in C++, C#, Python and modern software engineering best practices.
 
 <!--  {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
