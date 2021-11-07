@@ -59,9 +59,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: media/mjaenm_CV.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: media/mjaenm_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,9 +70,9 @@ email: ""
 highlight_name: false
 ---
 
-I am a computer scientist who is passionate about the interplay between mathematical theory of intelligent systems, computational algorithms and their applications to solve real world problems.
+I am a computer engineer and scientist who is passionate about the interplay between mathematical theory of intelligent systems, computational algorithms and their applications to real-world problems. I have extensive experience in both academic computer science and practical engineering. 
 
-I have research experience in combinatorial optimization working with [Dr. Rafael Rivera](https://scholar.google.com.mx/citations?hl=en&user=UoFV9LAAAAAJ) at TecNM - Veracruz, probabilistic modeling and evolutionary computation with [Dr. Arturo Hernandez](https://www.cimat.mx/~artha/) at [CIMAT, Mexico](http://pcc.cimat.mx/) and computational intelligence and machine learning with [Dr. John McCall](https://www3.rgu.ac.uk/dmstaff/mccall-john) at [RGU, UK](http://www.comp.rgu.ac.uk/computational-intelligence-research-group/). 
+I did research in combinatorial optimization working with [Dr. Rafael Rivera](https://scholar.google.com.mx/citations?hl=en&user=UoFV9LAAAAAJ) at TecNM-Veracruz, Mexico, evolutionary computation with [Dr. Arturo Hernandez](https://www.cimat.mx/~artha/) at [CIMAT-Guanajuato](http://pcc.cimat.mx/), Mexico and probabilistic modeling and machine learning with [Dr. John McCall](https://www3.rgu.ac.uk/dmstaff/mccall-john) at [RGU, UK](http://www.comp.rgu.ac.uk/computational-intelligence-research-group/). 
 
 Amazed to see how basic research is transformed into technology I started my professional career in the financial industry as a Quant developer and now as a Software Engineer in the tech sector. I am skilled in C++, C#, Python and modern software engineering best practices.
 
