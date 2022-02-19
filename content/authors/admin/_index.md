@@ -18,10 +18,10 @@ bio: My research interests include Optimization, Probabilistic Modeling and Mach
 
 # Interests to show in About widget
 interests:
-- Stochastic Optimization
+- Optimization
 - Machine Learning
-- Evolutionary Computation
 - Probabilistic Modeling
+- Evolutionary Computation
 
 # Education to show in About widget
 education:
