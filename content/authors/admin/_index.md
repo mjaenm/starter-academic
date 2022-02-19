@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mario Iván Jaen
+title: M. Iván Jaen
 
 # Is this the primary user of the site?
 superuser: true
@@ -19,9 +19,9 @@ bio: My research interests include Optimization, Probabilistic Modeling and Mach
 # Interests to show in About widget
 interests:
 - Stochastic Optimization
+- Machine Learning
 - Evolutionary Computation
 - Probabilistic Modeling
-- Machine Learning
 
 # Education to show in About widget
 education:
@@ -72,8 +72,8 @@ highlight_name: false
 
 I am a computer engineer and scientist who is passionate about the interplay between mathematical theory of intelligent systems, computational algorithms and their applications to real-world problems. I have extensive experience in both academic computer science and practical engineering. 
 
-I did research in combinatorial optimization working with [Dr. Rafael Rivera](https://scholar.google.com.mx/citations?hl=en&user=UoFV9LAAAAAJ) at TecNM-Veracruz, Mexico, evolutionary computation with [Dr. Arturo Hernandez](https://www.cimat.mx/~artha/) at [CIMAT-Guanajuato](http://pcc.cimat.mx/), Mexico and probabilistic modeling and machine learning with [Dr. John McCall](https://www3.rgu.ac.uk/dmstaff/mccall-john) at [RGU, UK](http://www.comp.rgu.ac.uk/computational-intelligence-research-group/). 
+I conducted research in combinatorial optimization working with [Dr. Rafael Rivera](https://scholar.google.com.mx/citations?hl=en&user=UoFV9LAAAAAJ) at TecNM-Veracruz, Mexico, evolutionary computation with [Dr. Arturo Hernandez](https://www.cimat.mx/~artha/) at [CIMAT-Guanajuato](http://pcc.cimat.mx/), Mexico and probabilistic modeling and machine learning with [Dr. John McCall](https://www3.rgu.ac.uk/dmstaff/mccall-john) at [RGU, UK](http://www.comp.rgu.ac.uk/computational-intelligence-research-group/). 
 
-Amazed to see how basic research is transformed into technology I started my professional career in the financial industry as a Quant developer and now as a Software Engineer in the tech sector. I am skilled in C++, C#, Python and modern software engineering best practices.
+Amazed to explore how basic research is transformed into technology I started my professional career working in the financial industry as a Quant developer. Currently I am a Software Engineer in tech. I am skilled in C++, Python and modern software engineering best practices.
 
 <!--  {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
